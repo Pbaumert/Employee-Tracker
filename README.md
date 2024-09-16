@@ -4,10 +4,14 @@
 
 This is a command-line application built to manage a company's employee database using Node.js, Inquirer, and PostgreSQL. The application allows users to view and manage departments, roles, and employees within a company. It is designed to help business owners organize and plan their workforce efficiently.
 
+## Video Example
+[Video Example](https://drive.google.com/file/d/1Bf1Pulp1AdU7j920Is5VTTcsDAMn2aB2/view)
+
 ## Table of Contents
 
 - [Employee Tracker](#employee-tracker)
   - [Description](#description)
+  - [Video Example](#video-example)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Usage](#usage)
